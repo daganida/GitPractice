@@ -1,2 +1,4 @@
 test
 feature2
+
+feature4
